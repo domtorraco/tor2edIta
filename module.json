@@ -110,7 +110,7 @@
             "entity": "RollTable",
             "type": "RollTable",
             "package": "tor2e"
-        },
+        }
     ],
     "url": "https://github.com/domtorraco/tor2edIta",
     "manifest": "https://github.com/domtorraco/tor2edIta/releases/latest/download/module.json",
