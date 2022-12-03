@@ -38,10 +38,82 @@
             "entity": "Item",
             "type": "Item",
             "package": "tor2e"
-        }
+        },
+        {
+            "name": "armature",
+            "label": "Armature",
+            "path": "packs/armature.db",
+            "entity": "Item",
+            "type": "Item",
+            "package": "tor2e"
+        },
+        {
+            "name": "capacità-funeste",
+            "label": "Capacità Funeste",
+            "path": "packs/capacita-funeste.db",
+            "entity": "Item",
+            "type": "Item",
+            "package": "tor2e"
+        },
+        {
+            "name": "caratteristiche",
+            "label": "Caratteristiche",
+            "path": "packs/caratteristiche.db",
+            "entity": "Item",
+            "type": "Item",
+            "package": "tor2e"
+        },
+        {
+            "name": "macro-varie",
+            "label": "Macro Varie",
+            "path": "packs/macro-varie.db",
+            "entity": "Macro",
+            "type": "Macro",
+            "package": "tor2e"
+        },
+        {
+            "name": "mappe-eriador",
+            "label": "Mappe Eriador",
+            "path": "packs/mappe-eriador.db",
+            "entity": "Scene",
+            "type": "Scene",
+            "package": "tor2e"
+        },
+        {
+            "name": "nemici",
+            "label": "Nemici",
+            "path": "packs/nemici.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "package": "tor2e"
+        },
+        {
+            "name": "patroni",
+            "label": "Patroni",
+            "path": "packs/patroni.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "package": "tor2e"
+        },  
+        {
+            "name": "personaggi-cavallino-rampante",
+            "label": "Personaggi al Cavallino Rampante (HB)",
+            "path": "packs/personaggi-cavallino-rampante.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry",
+            "package": "tor2e"
+        },
+        {
+            "name": "tabelle-incontri",
+            "label": "Tabelle degli Incontri",
+            "path": "packs/tabelle-incontri.db",
+            "entity": "RollTable",
+            "type": "RollTable",
+            "package": "tor2e"
+        },
     ],
     "url": "https://github.com/domtorraco/tor2edIta",
-    "manifest": "https://github.com/domtorraco/tor2edIta/releases/download/0.0.2/module.json",
-    "download": "https://github.com/domtorraco/tor2edIta/releases/download/0.0.2/module.zip",
+    "manifest": "https://github.com/domtorraco/tor2edIta/releases/latest/download/module.json",
+    "download": "https://github.com/domtorraco/tor2edIta/releases/latest/download/module.zip",
     "description": "Questo modulo aggiunge classi, sottoclassi e altri elementi mancanti da Tor 2e grazie al contributo di Archer39"
 }
